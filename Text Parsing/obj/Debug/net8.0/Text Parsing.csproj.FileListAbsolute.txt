@@ -1,0 +1,14 @@
+D:\Projects Visual Studio\New folder\Text Parsing\Text Parsing\bin\Debug\net8.0\Text Parsing.exe
+D:\Projects Visual Studio\New folder\Text Parsing\Text Parsing\bin\Debug\net8.0\Text Parsing.deps.json
+D:\Projects Visual Studio\New folder\Text Parsing\Text Parsing\bin\Debug\net8.0\Text Parsing.runtimeconfig.json
+D:\Projects Visual Studio\New folder\Text Parsing\Text Parsing\bin\Debug\net8.0\Text Parsing.dll
+D:\Projects Visual Studio\New folder\Text Parsing\Text Parsing\bin\Debug\net8.0\Text Parsing.pdb
+D:\Projects Visual Studio\New folder\Text Parsing\Text Parsing\obj\Debug\net8.0\Text Parsing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects Visual Studio\New folder\Text Parsing\Text Parsing\obj\Debug\net8.0\Text Parsing.AssemblyInfoInputs.cache
+D:\Projects Visual Studio\New folder\Text Parsing\Text Parsing\obj\Debug\net8.0\Text Parsing.AssemblyInfo.cs
+D:\Projects Visual Studio\New folder\Text Parsing\Text Parsing\obj\Debug\net8.0\Text Parsing.csproj.CoreCompileInputs.cache
+D:\Projects Visual Studio\New folder\Text Parsing\Text Parsing\obj\Debug\net8.0\Text Parsing.dll
+D:\Projects Visual Studio\New folder\Text Parsing\Text Parsing\obj\Debug\net8.0\refint\Text Parsing.dll
+D:\Projects Visual Studio\New folder\Text Parsing\Text Parsing\obj\Debug\net8.0\Text Parsing.pdb
+D:\Projects Visual Studio\New folder\Text Parsing\Text Parsing\obj\Debug\net8.0\Text Parsing.genruntimeconfig.cache
+D:\Projects Visual Studio\New folder\Text Parsing\Text Parsing\obj\Debug\net8.0\ref\Text Parsing.dll
